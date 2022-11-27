@@ -1,0 +1,18 @@
+[submodule "clion"]
+	path = clion
+	url = ./clion
+[submodule "goland"]
+	path = goland
+	url = ./goland
+[submodule "intellij"]
+	path = intellij
+	url = ./intellij
+[submodule "pycharm"]
+	path = pycharm
+	url = ./pycharm
+[submodule "rider"]
+	path = rider
+	url = ./rider
+[submodule "webstorm"]
+	path = webstorm
+	url = ./webstorm/
